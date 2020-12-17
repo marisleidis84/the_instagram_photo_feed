@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.container{
+    display: block;
+}
+header{
+    width: 80em;
+    height: 3em;
+    background-color:white;
+    /*text-align: center;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.final{
+    justify-content: center;
+}
+.enc{
+    justify-content: space-between;
+}
+
+.clase_en_comun{
+    width: 31em;
+    height: 3em;
+    background-color:white;
+    padding-left: 2em;
+    padding-right: 2em;
+    display: flex;
+    align-items: center;
+}
+
+.fondo{
+    width: 80em;
+    height: 36em;
+    background-color: rgb(202, 199, 199);
+    display: flex;
+    justify-content: center;
+
+   
+}
+.conten{
+    width: 35em;
+    margin-top: 4em;
+
+}
+img{
+    width: 35em;
+    height: 25em;
+   
+}
+h1{
+    color: black;
+}
+.fecha{
+    color: grey;
+}
+.letra{
+    font-family: 'Amaranth', sans-serif;
+}
